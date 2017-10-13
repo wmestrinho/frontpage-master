@@ -242,7 +242,7 @@
 <div class="flex-container">
     <header>
         <div class="logo">
-            <a href="/index.jsp"><img src="/logos/apofficial.png"></a>
+            <a href="/index.jsp"><img src="/logos/logoblue.png"></a>
         </div>
         <h1>keeptheCYCLE</h1>
     </header>
