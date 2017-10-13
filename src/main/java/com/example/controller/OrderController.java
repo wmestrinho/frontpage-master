@@ -77,7 +77,7 @@ public class OrderController {
     return dest;
 
     }
-
+/*
     // path for saving to database
     @RequestMapping(path = "/sendingOrder", method = RequestMethod.POST,
             consumes = MediaType.ALL_VALUE)
@@ -106,8 +106,9 @@ public class OrderController {
             dataToJsp.addAttribute("success_msg",
                     String.format("Order #'%s' was created!", saveToDB.getId()));
         }
+        
         return "forward:/sendingEmail";
-    }
+    }*/
 
 }
 

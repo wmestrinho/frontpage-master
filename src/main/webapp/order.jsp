@@ -227,7 +227,7 @@
             <a class="button" href="https://www.gofundme.com/keeptheCYCLE">DONATE!</a>
         <article class="article">
         <div class="container">
-            <form action="/sendingEmail" method="post">
+            <form action="/sendingEmail" enctype="multipart/form-data" method="post">
                 <fieldset><legend><h3>CONTACT</h3></legend>
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" size="16" required>
