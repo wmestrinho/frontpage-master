@@ -250,8 +250,8 @@
                         <label for="material">Material:</label>
                         <input type="text" id="material" name="material" required>
                         <br>
-                        <label for="sketch">Picture or File:</label><br>
-                        <input type="file" id="sketch" name="sketch">
+                        <label for="url">url:</label><br>
+                        <input type="text" id="url" name="url">
                         <br>
                         <label for="count">Count:</label>
                         <select id="count" name="count" required>
