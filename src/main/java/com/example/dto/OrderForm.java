@@ -16,7 +16,7 @@ public class OrderForm {
     private String name;
     private String email;
     private String phone;
-    private MultipartFile sketch;
+    private String url;
 
     public OrderForm() {
     }
@@ -101,11 +101,11 @@ public class OrderForm {
         this.phone = phone;
     }
 
-    public MultipartFile getSketch() {
-        return sketch;
+    public String getUrl() {
+        return url;
     }
 
-    public void setSketch(MultipartFile sketch) {
-        this.sketch = sketch;
+    public void setUrl(String url) {
+        this.url = url;
     }
 }

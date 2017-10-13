@@ -250,7 +250,7 @@
                         <label for="material">Material:</label>
                         <input type="text" id="material" name="material" required>
                         <br>
-                        <label for="url">url:</label><br>
+                        <label for="url">Url:</label><br>
                         <input type="text" id="url" name="url">
                         <br>
                         <label for="count">Count:</label>
